@@ -1,0 +1,12 @@
+{
+    "name": "COMP423 EX00 Go Tutorial",
+    "image": "mcr.microsoft.com/devcontainers/go",
+    "customizations": {
+      "vscode": {
+        "settings": {},
+        "extensions": [
+          "golang.go"
+        ]
+      }
+    }
+  }
